@@ -1,0 +1,5 @@
+#!/home/ubuntu/conda/envs/py2713/bin/python
+
+from idlelib.PyShell import main
+if __name__ == '__main__':
+    main()
